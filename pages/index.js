@@ -6,9 +6,7 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>4ANOTHER</title>
-        <meta name="description" content="4ANOTHER" />
-        <link rel="icon" href="/4a.ico" />
+      
 
 
 
@@ -36,8 +34,8 @@ export default function Home() {
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:site" content="@4anohter" />
         <meta name="msapplication-TileImage" content="/4asc.jpg" />
-        <link rel="icon" href="/4a.png" sizes="32x32" />
-        <link rel="icon" href="/4a.png" sizes="192x192" />
+        <link rel="icon" href="/4a.svg" sizes="32x32" />
+        <link rel="icon" href="/4a.svg" sizes="192x192" />
         <link rel="apple-touch-icon" href="//4asc.jpg" />
         <link rel="canonical" href="https://4another.world/" />
 
