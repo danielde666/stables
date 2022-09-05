@@ -119,10 +119,6 @@
   min-height: 80vh;
 }
 
-  html {
-      background-attachment: fixed;
-  }
-
 }
 
 @media (prefers-color-scheme: dark) {
