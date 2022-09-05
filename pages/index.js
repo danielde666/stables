@@ -12,9 +12,7 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <h1 className={styles.title}>
-         4ANOTHER
-        </h1>
+       <Image src="/4ANOTHER.svg" alt="4another" width={72} height={16} />
       </main>
 
       <footer className={styles.footer}>
