@@ -8,7 +8,7 @@ export default function Home() {
       <Head>
         <title>4ANOTHER</title>
         <meta name="description" content="4ANOTHER" />
-        <link rel="icon" href="/4ANOTHER.svg" />
+        <link rel="icon" href="/4a.ico" />
       </Head>
 
       <main className={styles.main}>
