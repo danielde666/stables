@@ -15,9 +15,6 @@ export default function Home() {
         <h1 className={styles.title}>
          4ANOTHER
         </h1>
-
-      
-        </div>
       </main>
 
       <footer className={styles.footer}>
