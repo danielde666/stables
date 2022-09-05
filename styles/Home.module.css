@@ -116,8 +116,12 @@
     flex-direction: column;
   }
   .main {
-  min-height: 70vh;
+  min-height: 80vh;
 }
+
+  html {
+      background-attachment: fixed;
+  }
 
 }
 
