@@ -12,7 +12,7 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-       <Image src="/4ANOTHER.svg" alt="4another" width={72} height={16} />
+       <Image src="/4ANOTHER.svg" alt="4another" width={204} height={19} />
       </main>
 
      
