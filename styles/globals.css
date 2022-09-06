@@ -51,3 +51,20 @@ a {
 .decoy{
   position: absolute; left: -5000px;
 }
+
+
+form{
+    display: flex;
+    align-content: center;
+    justify-content: space-between;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+
+form input{
+ margin:20px 0px 5px 0px;
+}
+
+form input + input{
+  margin:20px 0px;
+}
