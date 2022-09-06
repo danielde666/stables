@@ -51,7 +51,7 @@ export default function Home() {
 
 <>
 <div className="mc_embed_signup">
-    <form action="https://world.us12.list-manage.com/subscribe/post?u=9c547650790325d0eae831e37&amp;id=6a95c815d8&amp;f_id=0002b2e0f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_self">
+    <form action="https://world.us12.list-manage.com/subscribe/post?u=9c547650790325d0eae831e37&amp;id=6a95c815d8&amp;f_id=0002b2e0f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" className="validate" target="_self">
         <div id="mc_embed_signup_scroll">
         
         <div className="indicates-required"><span className="asterisk">*</span> indicates required</div>
