@@ -54,7 +54,7 @@ export default function Home() {
     <form action="https://world.us12.list-manage.com/subscribe/post?u=9c547650790325d0eae831e37&amp;id=6a95c815d8&amp;f_id=0002b2e0f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" className="validate" target="_self">
         
      
-    <input type="email" value="" name="EMAIL" className="required email" id="mce-EMAIL" required placeholder='EMAIL ADDRESS'></input>
+    <input type="email" name="EMAIL" className="required email" id="mce-EMAIL" required placeholder='EMAIL ADDRESS'></input>
     <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" className="button"></input>
        
   </form>
