@@ -56,13 +56,7 @@ export default function Home() {
         <div className="mc-field-group">
           <input type="email" value="" name="EMAIL" className="required email" id="mce-EMAIL" required></input>
         </div>
-        <div id="mce-responses" className="clear foot">
-          <div className="response" id="mce-error-response" style="display:none"></div>
-          <div className="response" id="mce-success-response" style="display:none"></div>
-        </div>   
-        <div className="decoy" aria-hidden="true">
-          <input type="text" name="b_9c547650790325d0eae831e37_6a95c815d8" tabindex="-1" value=""></input>
-        </div>
+        
         <div className="optionalParent">
             <div className="clear foot">
                 <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" className="button"></input>
