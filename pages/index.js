@@ -56,7 +56,6 @@ export default function Home() {
         
         <div className="indicates-required"><span className="asterisk">*</span> indicates required</div>
 <div className="mc-field-group">
-	<label for="mce-EMAIL">Email Address  <span className="asterisk">*</span>
 </label>
 	<input type="email" value="" name="EMAIL" className="required email" id="mce-EMAIL" required></input>
 	<span id="mce-EMAIL-HELPERTEXT" className="helper_text"></span>
