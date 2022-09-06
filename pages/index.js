@@ -39,11 +39,10 @@ export default function Home() {
         <link rel="apple-touch-icon" href="//4asc.jpg" />
         <link rel="canonical" href="https://4another.world/" />
         <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Inter&display=swap" rel="stylesheet">
 
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-<style data-href="https://fonts.googleapis.com/css2?family=Inter&display=swap">
-  @font-face{font-family: 'Inter', sans-serif;}
-</style>
+
 
 
 

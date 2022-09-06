@@ -4,6 +4,8 @@ body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+    font-family: 'Inter', sans-serif;
+
 }
 html {
   background-image: url('/4anotherpinkbg.jpg');
@@ -40,20 +42,20 @@ a {
 }
 
 
-.brandingLogo{
+.brandingLogo {
   display:none;
 }
 
-.mc_embed_signup{
+.mc_embed_signup {
   display:none;
 }
 
-.decoy{
+.decoy {
   position: absolute; left: -5000px;
 }
 
 
-form{
+form {
     display: flex;
     align-content: center;
     justify-content: space-between;
@@ -61,30 +63,32 @@ form{
     flex-wrap: nowrap;
 }
 
-form input{
+form input {
   margin: 20px 5px 20px 0px;
   height: 30px;
 }
 
-form input + input{
+form input + input {
   margin:20px 0px;
 }
 
 
-input[type="email"]{
+input[type="email"] {
   border:none!important;
   background:transparent!important;
   box-shadow: 0px 0px 0px !important;
   outline: none !important;
 }
-
+input::placeholder {
+  opacity: 1;
+}
 input[type="submit"]:active,
-input[type="submit" i]{
+input[type="submit" i] { 
   border-radius: 10px;
   border:1px solid #000;
   background:transparent!important;
   box-shadow: 0px 0px 0px !important;
   outline: none !important;
-  
+
 
 }
