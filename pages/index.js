@@ -49,8 +49,7 @@ export default function Home() {
       <main className={styles.main}>
        <Image src="/4ANOTHER.svg" alt="4another" width={204} height={19} />
 
-
-       <!-- Begin Mailchimp Signup Form -->
+<>
 <div id="mc_embed_signup">
     <form action="https://world.us12.list-manage.com/subscribe/post?u=9c547650790325d0eae831e37&amp;id=6a95c815d8&amp;f_id=0002b2e0f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_self">
         <div id="mc_embed_signup_scroll">
@@ -76,8 +75,7 @@ export default function Home() {
     </div>
 </form>
 </div>
-
-<!--End mc_embed_signup-->
+</>
       </main>
 
      
