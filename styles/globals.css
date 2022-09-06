@@ -38,3 +38,12 @@ a {
     background: black;
   }
 }
+
+
+.brandingLogo{
+  display:none;
+}
+
+#mc_embed_signup{
+  display:none;
+}
