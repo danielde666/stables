@@ -48,7 +48,7 @@ a {
 
 .mc_embed_signup {
   display:none;
-  margin-top:10px;
+  margin-top:40px;
 }
 
 .decoy {
@@ -60,18 +60,19 @@ form {
     display: flex;
     align-content: center;
     justify-content: space-between;
-    flex-direction: row;
+    flex-direction: column;
     flex-wrap: nowrap;
 }
 
 form input {
-  margin: 20px 5px 20px 0px;
+  margin: 0px 0px 0px 0px;
   height: 30px; 
+  text-align: center;
   font-family: 'Inter', sans-serif;
 }
 
 form input + input {
-  margin:20px 0px;
+  margin:0px 0px;
 }
 
 
