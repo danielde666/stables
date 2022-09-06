@@ -50,7 +50,7 @@ export default function Home() {
        <Image src="/4ANOTHER.svg" alt="4another" width={204} height={19} />
 
 <>
-<div id="mc_embed_signup">
+<div className="mc_embed_signup">
     <form action="https://world.us12.list-manage.com/subscribe/post?u=9c547650790325d0eae831e37&amp;id=6a95c815d8&amp;f_id=0002b2e0f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_self">
         <div id="mc_embed_signup_scroll">
         
@@ -64,8 +64,8 @@ export default function Home() {
 	<div id="mce-responses" className="clear foot">
 		<div className="response" id="mce-error-response" style="display:none"></div>
 		<div className="response" id="mce-success-response" style="display:none"></div>
-	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_9c547650790325d0eae831e37_6a95c815d8" tabindex="-1" value=""></div>
+	</div>   
+    <div className="decoy" aria-hidden="true"><input type="text" name="b_9c547650790325d0eae831e37_6a95c815d8" tabindex="-1" value=""></div>
         <div className="optionalParent">
             <div className="clear foot">
                 <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" className="button"></input>
