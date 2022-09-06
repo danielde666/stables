@@ -70,7 +70,6 @@ export default function Home() {
         <div className="optionalParent">
             <div className="clear foot">
                 <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" className="button"></input>
-                <p className="brandingLogo"><a href="http://eepurl.com/h-tl3f" title="Mailchimp - email marketing made easy and fun"><img src="https://eep.io/mc-cdn-images/template_images/branding_logo_text_dark_dtp.svg"></a></p>
             </div>
         </div>
     </div>
