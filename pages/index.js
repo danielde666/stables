@@ -58,7 +58,7 @@ export default function Home() {
 <div className="mc-field-group">
 	<label for="mce-EMAIL">Email Address  <span className="asterisk">*</span>
 </label>
-	<input type="email" value="" name="EMAIL" className="required email" id="mce-EMAIL" required>
+	<input type="email" value="" name="EMAIL" className="required email" id="mce-EMAIL" required></input>
 	<span id="mce-EMAIL-HELPERTEXT" className="helper_text"></span>
 </div>
 	<div id="mce-responses" className="clear foot">
@@ -68,7 +68,7 @@ export default function Home() {
     <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_9c547650790325d0eae831e37_6a95c815d8" tabindex="-1" value=""></div>
         <div className="optionalParent">
             <div className="clear foot">
-                <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" className="button">
+                <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" className="button"></input>
                 <p className="brandingLogo"><a href="http://eepurl.com/h-tl3f" title="Mailchimp - email marketing made easy and fun"><img src="https://eep.io/mc-cdn-images/template_images/branding_logo_text_dark_dtp.svg"></a></p>
             </div>
         </div>
