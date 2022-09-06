@@ -47,7 +47,7 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-       <Image src="/4ANOTHER.svg" alt="4another" width={204} height={19} />
+       <Image src="/4ANOTHER.svg" alt="4another" width={400} height={40} />
 
 <>
 <div className="mc_embed_signup">
