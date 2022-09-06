@@ -52,27 +52,23 @@ export default function Home() {
 <>
 <div className="mc_embed_signup">
     <form action="https://world.us12.list-manage.com/subscribe/post?u=9c547650790325d0eae831e37&amp;id=6a95c815d8&amp;f_id=0002b2e0f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" className="validate" target="_self">
-        <div id="mc_embed_signup_scroll">
         
-        <div className="indicates-required"><span className="asterisk">*</span> indicates required</div>
-<div className="mc-field-group">
-</label>
-	<input type="email" value="" name="EMAIL" className="required email" id="mce-EMAIL" required></input>
-	<span id="mce-EMAIL-HELPERTEXT" className="helper_text"></span>
-</div>
-	<div id="mce-responses" className="clear foot">
-		<div className="response" id="mce-error-response" style="display:none"></div>
-		<div className="response" id="mce-success-response" style="display:none"></div>
-	</div>   
-    <div className="decoy" aria-hidden="true">
-      <input type="text" name="b_9c547650790325d0eae831e37_6a95c815d8" tabindex="-1" value=""></input></div>
+        <div className="mc-field-group">
+          <input type="email" value="" name="EMAIL" className="required email" id="mce-EMAIL" required></input>
+        </div>
+        <div id="mce-responses" className="clear foot">
+          <div className="response" id="mce-error-response" style="display:none"></div>
+          <div className="response" id="mce-success-response" style="display:none"></div>
+        </div>   
+        <div className="decoy" aria-hidden="true">
+          <input type="text" name="b_9c547650790325d0eae831e37_6a95c815d8" tabindex="-1" value=""></input>
+        </div>
         <div className="optionalParent">
             <div className="clear foot">
                 <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" className="button"></input>
             </div>
         </div>
-    </div>
-</form>
+  </form>
 </div>
 </>
       </main>
