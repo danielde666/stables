@@ -11,22 +11,22 @@ export default function Home() {
 
 
          <title>
-          4ANOTHER
+          The Stables
         </title>
         <meta
           name="description"
-          content="4ANOTHER"
+          content="The Stables"
         />
         <meta charSet="UTF-8"></meta>
         <meta property="og:locale" content="en_US" />
         <meta property="og:type" content="website" />
-        <meta property="og:title" content="4ANOTHER" />
+        <meta property="og:title" content="The Stables" />
         <meta
           property="og:description"
-          content="4ANOTHER"
+          content="The Stables"
         />
-        <meta property="og:url" content="https://4another.world/" />
-        <meta property="og:site_name" content="4ANOTHER" />
+        <meta property="og:url" content="https://The Stables.world/" />
+        <meta property="og:site_name" content="The Stables" />
         <meta property="og:image" content="/4asc.jpg" />
         <meta property="og:image:width" content="596" />
         <meta property="og:image:height" content="379" />
@@ -37,7 +37,7 @@ export default function Home() {
         <link rel="icon" href="/4a.svg" sizes="32x32" />
         <link rel="icon" href="/4a.svg" sizes="192x192" />
         <link rel="apple-touch-icon" href="//4asc.jpg" />
-        <link rel="canonical" href="https://4another.world/" />
+        <link rel="canonical" href="https://The Stables.world/" />
         <link href="https://fonts.googleapis.com/css2?family=Inter&display=swap" rel="stylesheet"></link>
 
 
@@ -47,7 +47,7 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-       <Image src="/4ANOTHER.svg" alt="4another" width={350} height={30}/>
+      <h1>The Stables</h1>
 
 <>
 <div className="mc_embed_signup">
