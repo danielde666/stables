@@ -104,7 +104,7 @@ export default function Home() {
                   <a href="https://app.next.nuorder.com/thestables" target="_blank" rel="noopener noreferrer">
                     VISIT OUR WHOLESALE PORTAL &rarr;
                   </a><br />
-                  <a href="#" className="fw24">2024 MARKET DATES &rarr;</a><br />
+                  <a href="#" className="fw24">2025 MARKET DATES &rarr;</a><br />
                   <a href="https://meetings.hubspot.com/luke647" target="_blank" rel="noopener noreferrer">
                     SCHEDULE A VIRTUAL APPOINTMENT &rarr;
                   </a>
